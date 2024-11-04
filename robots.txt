@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ibecioqo.github.io/Sta/sitemap_index.txt
+Sitemap: https://ibecioqo.github.io/YcM/sitemap_index.txt
+Sitemap: https://ibecioqo.github.io/lnj/sitemap_index.txt
+Sitemap: https://ibecioqo.github.io/ync/sitemap_index.txt
